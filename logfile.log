@@ -1,0 +1,112 @@
+[2024-08-07 22:44:15] [ INFO ] [VeterinarioDAOH2:39] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:24:51] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:24:51] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=3, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Quirurgico'}
+[2024-08-10 17:24:51] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=4, IdLicencia=302, Nombre='Luis', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:24:51] [ INFO ] [VeterinarioDAOH2:92] [listar] Listado de veterinarios[]
+[2024-08-10 17:26:48] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:26:48] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=3, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Quirurgico'}
+[2024-08-10 17:26:48] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=4, IdLicencia=302, Nombre='Luis', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:26:48] [ INFO ] [VeterinarioDAOH2:92] [listar] Listado de veterinarios[]
+[2024-08-10 17:27:28] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:27:28] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=3, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Quirurgico'}
+[2024-08-10 17:27:28] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=4, IdLicencia=302, Nombre='Luis', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:27:28] [ INFO ] [VeterinarioDAOH2:92] [listar] Listado de veterinarios[]
+[2024-08-10 17:29:01] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:29:01] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=3, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Quirurgico'}
+[2024-08-10 17:29:01] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=4, IdLicencia=302, Nombre='Luis', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:29:01] [ INFO ] [VeterinarioDAOH2:92] [listar] Listado de veterinarios0
+[2024-08-10 17:29:32] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:29:32] [ INFO ] [VeterinarioDAOH2:92] [listar] Listado de veterinarios0
+[2024-08-10 17:32:30] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:32:31] [ INFO ] [VeterinarioDAOH2:92] [listar] Listado de veterinarios0
+[2024-08-10 17:34:50] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:34:50] [ INFO ] [VeterinarioDAOH2:94] [listar] Listado de veterinarios 0
+[2024-08-10 17:36:34] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:36:34] [ INFO ] [VeterinarioDAOH2:96] [listar] Listado de veterinarios 0
+[2024-08-10 17:37:53] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:37:53] [ INFO ] [VeterinarioDAOH2:81] [listar] resultSet: rs1: org.h2.result.SimpleResult@77659b30
+[2024-08-10 17:37:53] [ INFO ] [VeterinarioDAOH2:95] [listar] Listado de veterinarios 0
+[2024-08-10 17:38:31] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:38:31] [ INFO ] [VeterinarioDAOH2:81] [listar] resultSet: rs1: org.h2.result.SimpleResult@2462cb01
+[2024-08-10 17:38:31] [ INFO ] [VeterinarioDAOH2:95] [listar] Listado de veterinarios 0
+[2024-08-10 17:39:50] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:39:50] [ INFO ] [VeterinarioDAOH2:81] [listar] resultSet: rs1: org.h2.result.SimpleResult@2462cb01
+[2024-08-10 17:39:50] [ INFO ] [VeterinarioDAOH2:96] [listar] Listado de veterinarios 0
+[2024-08-10 17:41:26] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:41:26] [ INFO ] [VeterinarioDAOH2:82] [listar] resultSet: rs1: org.h2.result.LocalResult@3cfdd820 columns: 5 rows: 2 pos: -1
+[2024-08-10 17:41:26] [ INFO ] [VeterinarioDAOH2:87] [listar] Nombre: Lina
+[2024-08-10 17:41:26] [ INFO ] [VeterinarioDAOH2:92] [listar] VeterinaroModel{id=1, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:41:26] [ INFO ] [VeterinarioDAOH2:87] [listar] Nombre: Lina
+[2024-08-10 17:41:26] [ INFO ] [VeterinarioDAOH2:92] [listar] VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:41:26] [ INFO ] [VeterinarioDAOH2:97] [listar] Listado de veterinarios 2
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=3, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Quirurgico'}
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=4, IdLicencia=302, Nombre='Luis', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:82] [listar] resultSet: rs3: org.h2.result.LocalResult@4b2c5e02 columns: 5 rows: 4 pos: -1
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:87] [listar] Nombre: Lina
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:92] [listar] VeterinaroModel{id=1, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:87] [listar] Nombre: Lina
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:92] [listar] VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:87] [listar] Nombre: Juan
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:92] [listar] VeterinaroModel{id=3, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Quirurgico'}
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:87] [listar] Nombre: Luis
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:92] [listar] VeterinaroModel{id=4, IdLicencia=302, Nombre='Luis', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:42:44] [ INFO ] [VeterinarioDAOH2:97] [listar] Listado de veterinarios 4
+[2024-08-10 17:43:29] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=2, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:43:29] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=3, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Quirurgico'}
+[2024-08-10 17:43:29] [ INFO ] [VeterinarioDAOH2:40] [guardar] veterinario VeterinaroModel{id=4, IdLicencia=302, Nombre='Luis', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:43:29] [ INFO ] [VeterinarioDAOH2:93] [listar] Listado de veterinarios 4
+[2024-08-10 17:53:38] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=1, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:57:40] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=1, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:57:40] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=2, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Cardiología'}
+[2024-08-10 17:57:58] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=1, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:57:58] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=1, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:57:58] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=2, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Cardiología'}
+[2024-08-10 17:58:51] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=1, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:58:51] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=1, IdLicencia=300, Nombre='Lina', Apellido='Suarez', Especialidad='Odontología'}
+[2024-08-10 17:58:51] [ INFO ] [VeterinarioDAOMemoria:19] [guardar] Veterinario guardado en memoria VeterinaroModel{id=2, IdLicencia=301, Nombre='Juan', Apellido='Suarez', Especialidad='Cardiología'}
+[2024-08-10 17:58:51] [ INFO ] [VeterinarioDAOMemoria:27] [listar] Listado de veterinarios: 2
+[2024-08-12 19:38:22] [ ERROR] [OdontologoH2Test:32] [crearTablas] Error de Sintaxis en sentencia SQL "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aIDMATRICULA INT NOT NULL,\000d\000aNOMBRE VARCHAR(50) NOT NULL,\000d\000aAPELLIDO VARCHAR(50) NOT NULL,\000d\000a[*])"; se esperaba "identifier"
+Syntax error in SQL statement "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aIDMATRICULA INT NOT NULL,\000d\000aNOMBRE VARCHAR(50) NOT NULL,\000d\000aAPELLIDO VARCHAR(50) NOT NULL,\000d\000a[*])"; expected "identifier"; SQL statement:
+
+
+CREATE TABLE ODONTOLOGOS(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+IDMATRICULA INT NOT NULL,
+NOMBRE VARCHAR(50) NOT NULL,
+APELLIDO VARCHAR(50) NOT NULL,
+) [42001-230]
+[2024-08-12 19:40:09] [ ERROR] [OdontologoH2Test:32] [crearTablas] Error de Sintaxis en sentencia SQL "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aIDMATRICULA INT NOT NULL,\000d\000aNOMBRE VARCHAR(50) NOT NULL,\000d\000aAPELLIDO VARCHAR(50) NOT NULL,\000d\000a[*])"; se esperaba "identifier"
+Syntax error in SQL statement "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aIDMATRICULA INT NOT NULL,\000d\000aNOMBRE VARCHAR(50) NOT NULL,\000d\000aAPELLIDO VARCHAR(50) NOT NULL,\000d\000a[*])"; expected "identifier"; SQL statement:
+
+
+CREATE TABLE ODONTOLOGOS(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+IDMATRICULA INT NOT NULL,
+NOMBRE VARCHAR(50) NOT NULL,
+APELLIDO VARCHAR(50) NOT NULL,
+) [42001-230]
+[2024-08-12 19:41:49] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=2, NoMatricula=300, Nombre='Lina', Apellido='Suarez'}
+[2024-08-12 19:41:49] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=3, NoMatricula=301, Nombre='Juan', Apellido='Suarez'}
+[2024-08-12 19:41:49] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=4, NoMatricula=302, Nombre='Luis', Apellido='Suarez'}
+[2024-08-12 19:41:49] [ INFO ] [OdontologoDAOH2:92] [listar] Listado de odontologos 4
+[2024-08-12 19:42:49] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=1, NoMatricula=300, Nombre='Lina', Apellido='Suarez'}
+[2024-08-12 19:42:49] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=2, NoMatricula=301, Nombre='Juan', Apellido='Suarez'}
+[2024-08-12 19:42:49] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=3, NoMatricula=302, Nombre='Luis', Apellido='Suarez'}
+[2024-08-12 19:42:49] [ INFO ] [OdontologoDAOH2:92] [listar] Listado de odontologos 3
+[2024-08-12 19:48:07] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=1, NoMatricula=300, Nombre='Lina', Apellido='Suarez'}
+[2024-08-12 19:48:07] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=2, NoMatricula=301, Nombre='Juan', Apellido='Suarez'}
+[2024-08-12 19:48:07] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=3, NoMatricula=302, Nombre='Luis', Apellido='Suarez'}
+[2024-08-12 19:48:07] [ INFO ] [OdontologoDAOMemoria:27] [listar] Listado de odontologos: 3
+[2024-08-12 19:49:33] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=1, NoMatricula=300, Nombre='Lina', Apellido='Suarez'}
+[2024-08-12 19:49:33] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=2, NoMatricula=301, Nombre='Juan', Apellido='Suarez'}
+[2024-08-12 19:49:33] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=3, NoMatricula=302, Nombre='Luis', Apellido='Suarez'}
+[2024-08-12 19:49:33] [ INFO ] [OdontologoDAOMemoria:27] [listar] Cantidad de odontologos listados: 3
+[2024-08-12 19:54:31] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=1, NoMatricula=300, Nombre='Lina', Apellido='Suarez'}
+[2024-08-12 19:54:31] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=2, NoMatricula=301, Nombre='Juan', Apellido='Suarez'}
+[2024-08-12 19:54:31] [ INFO ] [OdontologoDAOH2:39] [guardar] Odontologo OdontologoModel{id=3, NoMatricula=302, Nombre='Luis', Apellido='Suarez'}
+[2024-08-12 19:54:31] [ INFO ] [OdontologoDAOH2:92] [listar] Cantidad de odontologos listados: 3
+[2024-08-12 19:54:44] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=1, NoMatricula=300, Nombre='Lina', Apellido='Suarez'}
+[2024-08-12 19:54:44] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=2, NoMatricula=301, Nombre='Juan', Apellido='Suarez'}
+[2024-08-12 19:54:44] [ INFO ] [OdontologoDAOMemoria:19] [guardar] Odontologo guardado en memoria OdontologoModel{id=3, NoMatricula=302, Nombre='Luis', Apellido='Suarez'}
+[2024-08-12 19:54:44] [ INFO ] [OdontologoDAOMemoria:27] [listar] Cantidad de odontologos listados: 3
